@@ -1,0 +1,7 @@
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\bin\Debug\DelegateLessons.exe.config
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\bin\Debug\DelegateLessons.exe
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\bin\Debug\DelegateLessons.pdb
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\obj\Debug\DelegateLessons.csprojAssemblyReference.cache
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\obj\Debug\DelegateLessons.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\obj\Debug\DelegateLessons.exe
+D:\Programming\C_Sharp\Lessons\DelegateLessons\DelegateLessons\obj\Debug\DelegateLessons.pdb
